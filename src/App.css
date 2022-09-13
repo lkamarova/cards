@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+  text-align: center;
+  width: 60%;
+  display: flex;
+  margin: auto;
+  margin-top: 20px;
+  flex-direction: column;
+}
+
+body {
+  background: antiquewhite;
+}
+
+.card {
+  margin: 3%;
+}
